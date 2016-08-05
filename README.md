@@ -3,7 +3,7 @@ This article is intended to walk you through setting up development environment 
 
 1.Install Eclipse
 
-2.Install Force.com IDE
+2.Install Force.com IDE      
 https://developer.salesforce.com/page/Force.com_IDE_Installation
 
 3.Create a salesforce developer account
