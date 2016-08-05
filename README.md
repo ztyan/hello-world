@@ -9,8 +9,10 @@ https://developer.salesforce.com/page/Force.com_IDE_Installation
 3.Create a salesforce developer account      
 https://developer.salesforce.com/signup
 
-4.Get code from repository      
+4.Get code from repository 
+~~~
 git clone https://github.com/TeamOCI/salesforce.git
+~~~
 
 5.Configure Eclipse workspace      
 Set it pointing to parent folder of the above created repository
@@ -36,6 +38,6 @@ You just need to save the code to your account via right-click src folder, then 
 
 ok, the code is already deployed to your Salesforce code.
 
-Refer
-About how to use force.com IDE, see 
+Refer      
+About how to use force.com IDE, see      
 https://developer.salesforce.com/docs/atlas.en-us.eclipse.meta/eclipse/ide_about_perspective.htm
